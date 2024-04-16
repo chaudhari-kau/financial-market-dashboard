@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#8abdff"  # A soft blue for interactive elements
+backgroundColor="#121212"  # Lighter shade of dark for the main background
+secondaryBackgroundColor="#424242"  # A bit lighter for the sidebar and other areas
+textColor="#E1E1E6"  # Soft white for text
+font="sans serif"
