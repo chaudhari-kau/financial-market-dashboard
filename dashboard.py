@@ -170,7 +170,7 @@ with pricing_data:
 with fundamental_data:
     st.subheader('Balance Sheet')
     try:
-        key = 'O882PKFFFI4TKZIN'
+        key = 'X2H4MX7A3Y5P9BRN'
         fd = FundamentalData (key, output_format = 'pandas')
         balance_sheet = fd.get_balance_sheet_annual(ticker)[0]
         bs = balance_sheet.T[2:]
